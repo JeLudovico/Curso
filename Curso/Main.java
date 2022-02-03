@@ -9,7 +9,7 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		int hora;
 		
-		System.out.println("Que horas s„o?");
+		System.out.println("Que horas s√£o?");
 		hora = sc.nextInt();
 		
 	    if (hora <12){
@@ -27,3 +27,4 @@ public class Main {
 	}
    }
 }
+//
